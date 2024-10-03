@@ -49,3 +49,9 @@ Exemplo de configuração da string de conexão:
 
 
 Após realizar a restauração do banco de dados e a configuração correta da string de conexão, o projeto estará pronto para rodar. Agora você pode compilar e executar o projeto no seu ambiente local.
+
+
+![image](https://github.com/user-attachments/assets/f129e674-b7c4-46c4-92df-3c0b60f3a967)
+![image](https://github.com/user-attachments/assets/7f5904ad-61c8-4b7f-9ef9-81be9d1f4e67)
+![image](https://github.com/user-attachments/assets/1e2d8dcb-5e63-4469-9ca7-0ddbf901dd77)
+
