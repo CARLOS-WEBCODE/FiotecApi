@@ -16,7 +16,8 @@ Selecione o arquivo "LivrariaBD.bak" que você baixou e siga as instruções na 
 Exemplo visual:
 
 
-![image](https://github.com/user-attachments/assets/202beb74-c05d-44b9-910f-71f7c7c84c95)
+![image](https://github.com/user-attachments/assets/7274557a-46a4-46f8-b517-868f46b8c10d)
+
 
 
 
